@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050821002947",
+    "project_id": "case-app-6b764",
+    "storage_bucket": "case-app-6b764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050821002947:android:4c935ae1926add2b914476",
+        "android_client_info": {
+          "package_name": "com.basith.cbseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050821002947-uig3t8i0r8tp7tqqtsh2fiklohf6tb5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAYGqxstAQ6D9GdHgL6R382J5gqnWlD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050821002947-uig3t8i0r8tp7tqqtsh2fiklohf6tb5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

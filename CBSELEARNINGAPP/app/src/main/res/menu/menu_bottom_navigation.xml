@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_10"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="Class 10"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_9"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="Class 9"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_notifications"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Notification"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"
+        app:showAsAction="always" />
+</menu>
